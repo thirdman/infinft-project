@@ -1,4 +1,5 @@
-# Infinft Issues project managment
+# Infinft 
+#### Issues & Tasks
 This is the glorified todo list & public issue tracker for infinft project front end: https://infinft.com
 
 
